@@ -1,0 +1,13 @@
+{
+  "title": "Jisho Search Plugin",
+  "name": "jisho-plugin",
+  "version": "0.0.1",
+  "description": "Allow the user to search terms directly on Jisho dictionary",
+  "main": "index.js",
+  "author": "Tartine",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

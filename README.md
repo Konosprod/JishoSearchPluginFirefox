@@ -1,2 +1,2 @@
-# JishoSearchPluginFirefox
-A firefox plugin for search on jisho dictionary
+#Jisho Search Plugin
+Allow the user to search terms directly on Jisho dictionary
