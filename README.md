@@ -1,2 +1,2 @@
 #Jisho Search Plugin
-Allow the user to search terms directly on Jisho dictionary
+Allows the user to search selected text on a webpage directly on Jisho dictionary
